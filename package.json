@@ -1,5 +1,5 @@
 {
-  "name": "rbx-log-proxy",
+  "name": "my-vercel-project",
   "version": "1.0.0",
   "scripts": {
     "start": "node index.js"
